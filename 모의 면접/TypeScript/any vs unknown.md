@@ -26,7 +26,7 @@ if (typeof value === 'string') {
 }
 ```
 
-#### 3. ☑️ 추가질문. 언제 unknown을 쓰는 게 좋은지 설명해주세요.
+#### ☑️ 추가질문. 언제 unknown을 쓰는 게 좋은지 설명해주세요.
 - 외부 API, 사용자 입력 등 타입을 정확히 알 수 없는 데이터를 처리할 때 unknown을 사용하면 안전합니다.
 - 예: JSON.parse(), event.data, localStorage.getItem() 반환값 등
 
