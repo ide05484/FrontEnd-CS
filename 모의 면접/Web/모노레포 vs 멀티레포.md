@@ -1,5 +1,5 @@
 <details>
-  <summary><strong>useMemo에 대해 설명해주세요.</strong></summary>
+  <summary><strong>모노레포와 멀티레포에 대해 설명해주세요.</strong></summary>
 
 <br>
 
