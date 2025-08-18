@@ -16,6 +16,9 @@ Front End 취업을 위한 스터디입니다. Let's Go 💖
   <a href="https://github.com/Eunicekk">
     <img src="https://github.com/Eunicekk.png" alt="Eunicekk" style="width: 100px; height: 100px; border-radius: 50%;">
   </a>
+  <a href="https://github.com/sangypar">
+    <img src="https://github.com/sangypar.png" alt="Eunicekk" style="width: 100px; height: 100px; border-radius: 50%;">
+  </a>
 </p>
 
 ### 모의 면접 스터디 운영 방침
